@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Files opened from the NAS are cached here and handed to other apps through FileProvider. -->
+<paths>
+    <cache-path name="files" path="files/" />
+</paths>

@@ -1,0 +1,13 @@
+.gradle/
+build/
+local.properties
+*.apk
+
+# Local setup and backups: never commit these
+env.sh
+.kotlin/
+.idea/
+*.bak*
+*.keystore
+*.jks
+*.log
